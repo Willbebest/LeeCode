@@ -10,4 +10,4 @@
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [49](./Arrays/49.md) |
 | [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/) |  [1299](./Arrays/1299.md) |
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [392](./Arrays/392.md) |
-
+| [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [58](./Arrays/58.md) |
