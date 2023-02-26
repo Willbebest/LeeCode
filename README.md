@@ -12,3 +12,4 @@
 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [392](./Arrays/392.md) |
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [58](./Arrays/58.md) |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [14](./Arrays/14.md) |
+| [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [118](./Arrays/118.md) |
