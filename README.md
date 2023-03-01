@@ -15,3 +15,4 @@
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [118](./Arrays/118.md) |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/description/) | [27](./Arrays/27.md) |
 | [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [929](./Arrays/929.md) |
+| [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [205](./Arrays/205.md) |
