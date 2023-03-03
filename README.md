@@ -17,3 +17,4 @@
 | [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [929](./Arrays/929.md) |
 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [205](./Arrays/205.md) |
 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [605](./Arrays/605.md) |
+| [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [169](./Arrays/169.md) |
