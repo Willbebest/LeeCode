@@ -19,3 +19,4 @@
 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [605](./Arrays/605.md) |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [169](./Arrays/169.md) |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [496](./Arrays/496.md) |
+| [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [724](./Arrays/724.md) |
