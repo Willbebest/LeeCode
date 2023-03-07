@@ -21,3 +21,4 @@
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) | [496](./Arrays/496.md) |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [724](./Arrays/724.md) |
 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | [303](./Arrays/303.md) |
+| [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [448](./Arrays/448.md) |
