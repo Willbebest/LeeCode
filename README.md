@@ -25,3 +25,4 @@
 | [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/) | [1189](./Arrays/1189.md) |
 | [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/) | [209](./Arrays/290.md) |
 | [706. Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | [706](./Arrays/706.md) |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [347](./Arrays/347.md) |
