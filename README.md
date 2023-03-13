@@ -27,3 +27,4 @@
 | [706. Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | [706](./Arrays/706.md) |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [347](./Arrays/347.md) |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [238](./Arrays/238.md) |
+| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [36](./Arrays/36.md) |
