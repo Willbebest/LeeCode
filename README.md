@@ -6,6 +6,7 @@
 | :----------------------------------------------------------: | :--------------------: |
 | [217.Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [217](./Arrays/217.md) |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [242](./Arrays/242.md) |
+| [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) | [1929](./Arrays/1929.md) |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/) |        [1](./Arrays/1.md)        |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [49](./Arrays/49.md) |
 | [1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/) |  [1299](./Arrays/1299.md) |
