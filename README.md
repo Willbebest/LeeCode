@@ -31,3 +31,4 @@
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [36](./Arrays/36.md) |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [128](./Arrays/128.md) |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [75](./Arrays/75.md) |
+| [554. Brick Wall](https://leetcode.com/problems/brick-wall/description/) | [554](./Arrays/554.md) |
