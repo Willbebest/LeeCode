@@ -32,3 +32,4 @@
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [128](./Arrays/128.md) |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [75](./Arrays/75.md) |
 | [554. Brick Wall](https://leetcode.com/problems/brick-wall/description/) | [554](./Arrays/554.md) |
+| [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [560](./Arrays/560.md) |
