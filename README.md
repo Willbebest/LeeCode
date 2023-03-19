@@ -33,3 +33,4 @@
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [75](./Arrays/75.md) |
 | [554. Brick Wall](https://leetcode.com/problems/brick-wall/description/) | [554](./Arrays/554.md) |
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [560](./Arrays/560.md) |
+| [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/) | [1930](./Arrays/1930.md) |
