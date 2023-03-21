@@ -34,3 +34,4 @@
 | [554. Brick Wall](https://leetcode.com/problems/brick-wall/description/) | [554](./Arrays/554.md) |
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [560](./Arrays/560.md) |
 | [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/) | [1930](./Arrays/1930.md) |
+| [1963. Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/) | [1963](./Arrays/1963.md) |
