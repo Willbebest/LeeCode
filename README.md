@@ -36,10 +36,11 @@
 | [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/) | [1930](./Arrays/1930.md) |
 | [1963. Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/) | [1963](./Arrays/1963.md) |
 | [2001. Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/description/) | [2001](./Arrays/2001.md) |
+| [2586. Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [2586](./Arrays/2586.md) |
 
 
 
-HashTable
+#### HashTable
 
 |                             题号                             | 答案  |
 | :----------------------------------------------------------: | ----- |
